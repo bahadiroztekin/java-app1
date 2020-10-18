@@ -1,8 +1,7 @@
 # java-app1
 student affairs system
 
-
-example commands
+example commands:
 
 createStudent Ali 12345
 
